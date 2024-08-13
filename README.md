@@ -1,4 +1,4 @@
-# Weather App
+# react-weather-app
 
 ## Overview
 
@@ -26,5 +26,4 @@ This Weather App displays the current weather information using the Tomorrow.io 
 1. **Clone the repository:**
 
    ```bash
-   git clone -: 
-# react-weather-app
+   git clone -: https://github.com/dhiree/react-weather-app.git
